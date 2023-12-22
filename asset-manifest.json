@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chipi/static/css/main.6dccf6d0.css",
+    "main.js": "/Chipi/static/js/main.709612e2.js",
+    "static/js/787.a00868a0.chunk.js": "/Chipi/static/js/787.a00868a0.chunk.js",
+    "static/media/Chipi chipi chapa chapa cat.mp4": "/Chipi/static/media/Chipi chipi chapa chapa cat.dff9380e0d41e2c1d1b7.mp4",
+    "index.html": "/Chipi/index.html",
+    "main.6dccf6d0.css.map": "/Chipi/static/css/main.6dccf6d0.css.map",
+    "main.709612e2.js.map": "/Chipi/static/js/main.709612e2.js.map",
+    "787.a00868a0.chunk.js.map": "/Chipi/static/js/787.a00868a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6dccf6d0.css",
+    "static/js/main.709612e2.js"
+  ]
+}
